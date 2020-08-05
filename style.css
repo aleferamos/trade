@@ -1,0 +1,12 @@
+.title {
+    text-align: center;
+}
+
+.row {
+    padding-bottom: 20px;
+}
+
+.user {
+    position: relative;
+    left:60px;
+}
